@@ -11,7 +11,7 @@ multiplica:
 
     beq x12, x0, RETURN # if( a == 0| |b == 0)
     beq x13, x0, RETURN 
-
+    
     bge x12, x0, LOOP2 # if(a < 0)
     
     LOOP1:
