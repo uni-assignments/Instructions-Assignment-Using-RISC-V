@@ -3,7 +3,7 @@
 addi x28, x0, 3 # carrega valor pra 3
 addi x29, x0, 225 # carrega valor pra 2250
 
-# addi x10, x0, 2
+# addi x10, x0, 2 #valores para teste
 # addi x11, x0, 2
 # addi x12, x0, 0
 
